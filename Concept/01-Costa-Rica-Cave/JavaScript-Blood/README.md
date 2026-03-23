@@ -11,7 +11,7 @@ This log tracks my daily progress through JavaScript, foundational mathematics, 
 ## 📈 Check-in Log 
 | Day | Date | Focus Area | Summary of Progress | Notes Path |Time Spent| Git|
  | :--- | :--- | :--- | :--- | :--- | :--- |  :--- | 
- | **Day 01** | *March 23th, 2026* | JavaScript Basics | Set up the compiler, wrote Hello World, and explored primitive data types. | [Notes](./path_to/noteme.md) | 1:40 |[x]|
+ | **Day 01** | *March 23th, 2026* | JavaScript Basics | Set up the compiler, wrote Hello World, and explored primitive data types. | [Notes](./Finding-Path/NOTEME.md) | 1:40 |[x]|
  | **Day 02** | *YYYY-MM-DD* |JavaScript Basics | | | | |
  | **Day 03** | *YYYY-MM-DD* |JavaScript Basics | | | | |
  --- 
